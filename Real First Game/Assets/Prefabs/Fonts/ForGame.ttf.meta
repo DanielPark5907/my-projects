@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1f3bb9728eca15545997c24b07a7077e
+timeCreated: 1652118246
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PF Playskool Pro
+  fontNames:
+  - PF Playskool Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
